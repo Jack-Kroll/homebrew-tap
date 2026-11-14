@@ -1,6 +1,6 @@
 cask "roo" do
   version "0.1.0"
-  sha256 :no_check
+  sha256 "e6c554ea1a0f75ac99fbb7cbe6733e4f34ef8c496f92e2cbd9bc406949dc883a"
 
   url "https://github.com/Jack-Kroll/homebrew-tap/releases/download/roo-#{version}/roo-#{version}.zip"
   name "roo"
